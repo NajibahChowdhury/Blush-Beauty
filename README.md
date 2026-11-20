@@ -1,16 +1,77 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌸 Blush Beauty
 
-Currently, two official plugins are available:
+### Your Beauty. Your Style. Your Community.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Blush Beauty is a makeup community website designed for beauty enthusiasts who love exploring makeup styles, discovering beauty inspiration, and learning new beauty techniques.
 
-## React Compiler
+The platform provides a welcoming space where users can explore different makeup looks, discover beauty tips, and express their creativity.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Home Page:** Welcome page introducing the Blush Beauty community.
+- **Explore:** Discover different makeup styles and looks.
+- **Beauty Tips:** Learn makeup techniques and beauty tips.
+- **User Registration:** Create an account using email and password.
+- **User Login:** Securely log in using Firebase Authentication.
+- **Dashboard:** Personalized dashboard for logged-in users.
+- **Profile:** View account information and log out.
+- **Protected Routes:** Restricts dashboard and profile access to authenticated users.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- React Router DOM
+- Firebase Authentication
+- Vite
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/NajibahChowdhury/Blush-Beauty.git
+```
+
+### 2. Open the Project Folder
+
+```bash
+cd Blush-Beauty
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 🔐 Authentication
+
+Blush Beauty uses Firebase Authentication for:
+
+- User registration
+- Email and password login
+- User authentication state
+- Logout functionality
+- Protected pages
+
+## 💗 Project Purpose
+
+The purpose of Blush Beauty is to create a beauty-focused platform where makeup lovers can explore different styles, gain inspiration, and celebrate creativity and self-expression.
+
+---
+
+**Blush Beauty – Your Beauty. Your Style. Your Community.**

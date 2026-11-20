@@ -10,8 +10,6 @@ The platform provides a welcoming space where users can explore different makeup
 ## ✨ Features
 
 - **Home Page:** Welcome page introducing the Blush Beauty community.
-- **Explore:** Discover different makeup styles and looks.
-- **Beauty Tips:** Learn makeup techniques and beauty tips.
 - **User Registration:** Create an account using email and password.
 - **User Login:** Securely log in using Firebase Authentication.
 - **Dashboard:** Personalized dashboard for logged-in users.
